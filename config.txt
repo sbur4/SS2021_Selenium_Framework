@@ -1,0 +1,5 @@
+OpenJDK1.8
+IJ
+maven
+selenium
+testng
